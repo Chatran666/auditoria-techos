@@ -1,6 +1,6 @@
 # Auditoría de Techos · E132
 
-**Versión vigente: 6.1**
+**Versión vigente: 6.1.1**
 
 ## Descarga
 

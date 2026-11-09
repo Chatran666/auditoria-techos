@@ -1,5 +1,5 @@
 {
-  "version": "6.1",
+  "version": "6.1.1",
   "url": "https://github.com/Chatran666/auditoria-techos/raw/main/Auditoria_Techos.zip",
-  "notes": "Sin exhibir: planillas por jefe, todos los subrubros de SAP en árbol con sus nombres.\nProductos con stock fuera del techo.\nEl aviso de versión ahora se lee de este repositorio."
+  "notes": "Sin exhibir más ordenado: subrubros a la izquierda y exhibidos a la derecha, fijos.\n«Planilla de:» arriba, sin el botón «Volver al listado».\nMenú de pestañas y barra del Cruce SAP en una sola fila."
 }
