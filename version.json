@@ -1,5 +1,5 @@
 {
-  "version": "6.1.1",
+  "version": "6.1.2",
   "url": "https://github.com/Chatran666/auditoria-techos/raw/main/Auditoria_Techos.zip",
-  "notes": "Sin exhibir más ordenado: subrubros a la izquierda y exhibidos a la derecha, fijos.\n«Planilla de:» arriba, sin el botón «Volver al listado».\nMenú de pestañas y barra del Cruce SAP en una sola fila."
+  "notes": "Exhibidos: al cargar el archivo la cantidad es opcional; cada fila cuenta 1 y un SAP repetido se suma.\nFiltro «Dónde está»: Techo + piso/depósito, Solo techo, Solo piso o depósito.\nSin exhibir más ordenado y menú en una sola fila."
 }
