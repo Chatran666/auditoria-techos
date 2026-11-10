@@ -1,5 +1,5 @@
 {
-  "version": "6.2.2",
+  "version": "6.2.3",
   "url": "https://github.com/Chatran666/auditoria-techos/raw/main/Auditoria_Techos.zip",
-  "notes": "Si un producto no tiene foto, ahora dice «Sin foto» en vez de desaparecer.\nCorregido: con doble clic sobre un SKU la ventana se cerraba sola.\nFotos de los productos: tocá un SKU o SAP para ver su foto."
+  "notes": "Revisión general: ninguna ventana se cierra con doble clic.\nPDF con fotos: aviso de avance y botón «Imprimir ya».\nArchivo de exhibidos: acepta SAP con puntos y renglones incompletos."
 }
