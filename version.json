@@ -1,5 +1,5 @@
 {
-  "version": "6.2.4",
+  "version": "6.2.5",
   "url": "https://github.com/Chatran666/auditoria-techos/raw/main/Auditoria_Techos.zip",
-  "notes": "Sin exhibir: el PDF sale sin fotos por defecto; con la casilla «PDF con fotos» las incluye (puede tardar).\nCorregido el botón «Imprimir ya».\nRevisión general: ninguna ventana se cierra con doble clic."
+  "notes": "Corregido: la música de «Acerca de» se cortaba a los pocos segundos.\nSin exhibir: el PDF sale sin fotos por defecto; casilla «PDF con fotos» para incluirlas."
 }
