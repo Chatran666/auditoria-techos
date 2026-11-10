@@ -1,5 +1,5 @@
 {
-  "version": "6.2.3",
+  "version": "6.2.4",
   "url": "https://github.com/Chatran666/auditoria-techos/raw/main/Auditoria_Techos.zip",
-  "notes": "Revisión general: ninguna ventana se cierra con doble clic.\nPDF con fotos: aviso de avance y botón «Imprimir ya».\nArchivo de exhibidos: acepta SAP con puntos y renglones incompletos."
+  "notes": "Sin exhibir: el PDF sale sin fotos por defecto; con la casilla «PDF con fotos» las incluye (puede tardar).\nCorregido el botón «Imprimir ya».\nRevisión general: ninguna ventana se cierra con doble clic."
 }
